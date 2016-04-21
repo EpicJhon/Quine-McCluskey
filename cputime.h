@@ -1,10 +1,3 @@
-/* 
- * File:   time.h
- * Author: h4x0r
- *
- * Created on 20 de abril de 2016, 05:07 PM
- */
-
 #ifndef TIME_H
 #define TIME_H
 

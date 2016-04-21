@@ -1,10 +1,3 @@
-/* 
- * File:   quine.cpp
- * Author: h4x0r
- * 
- * Created on 20 de abril de 2016, 06:28 PM
- */
-
 #include "quine.h"
 
 using namespace std;

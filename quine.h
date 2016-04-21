@@ -1,10 +1,3 @@
-/* 
- * File:   quine.h
- * Author: h4x0r
- *
- * Created on 20 de abril de 2016, 06:27 PM
- */
-
 #ifndef QUINE_H
 #define QUINE_H
 

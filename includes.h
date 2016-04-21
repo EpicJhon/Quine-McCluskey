@@ -1,10 +1,3 @@
-/* 
- * File:   includes.h
- * Author: h4x0r
- *
- * Created on 20 de abril de 2016, 05:36 PM
- */
-
 #ifndef INCLUDES_H
 #define INCLUDES_H
 

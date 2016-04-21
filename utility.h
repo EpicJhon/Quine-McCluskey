@@ -1,10 +1,3 @@
-/* 
- * File:   utility.h
- * Author: h4x0r
- *
- * Created on 20 de abril de 2016, 05:11 PM
- */
-
 #ifndef UTILITY_H
 #define UTILITY_H
 
