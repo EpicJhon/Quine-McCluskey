@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
 
     uint64 timeStart, timeEnd;
 
-    cout << "¿Mostrar proceso? (1 o 0): " << endl;
+    cout << "¿Mostrar proceso? (1 o 0): ";
     cin >> verbose;
     q.setVerbose(verbose);
 
@@ -25,6 +25,7 @@ int main(int argc, char** argv) {
     cin >> nun_vars;
     q.setNunVars(nun_vars);
 
+    cout << "Ingrese los minterminos separados por un espacio y finalice con un punto y la tecla enter: " << endl;
     while (cin >> number)
         q.addMinterm(number);
 
